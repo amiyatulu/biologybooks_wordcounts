@@ -48,7 +48,7 @@ structure [structure+structures] count is around 327 should be ranked in the top
 
 #### Conclusion:  
 Instances of data are maximum in Campbell Biology. Most thing in the book is explained with giving real world experimental data.  
-Both Campbell Biology and OpenStak Biology stress biology in the purview of evolution with maximum examples and emphasizing on structures in biology as form follows function, along with answer maximum probing questions (as how ranks much higher)  
+Both Campbell Biology and OpenStak Biology stress biology in the purview of evolution with maximum examples and emphasizing on structures in biology as form follows function, along with answering maximum probing questions (as how ranks much higher)  
 
 NCERT biology lacks emphasis of all these concepts. Even though figures tops in NCERT biology, but in many chapters, relevant figures of textual content is missing.  
 
