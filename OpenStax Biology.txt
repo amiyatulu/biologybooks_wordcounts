@@ -19,9 +19,7 @@ available;887
 organisms;885
 proteins;816
 molecules;811
-openstax;768
 protein;768
-book;762
 animals;757
 membrane;721
 structure;709
